@@ -1,4 +1,4 @@
-# Goodreads-Data-Report
+# <p align = "center"> Goodreads-Data-Report </p>
 
 ## 1.0 Introduction
 [Kindly access my Tableau interactive dashboard here](https://public.tableau.com/app/profile/azeez.olasupo/viz/GoodreadsDashboard_17117128023500/GoodreadsDashboard)
